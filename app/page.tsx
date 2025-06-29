@@ -414,7 +414,7 @@ export default function EventRegistration() {
     const shareData = {
       title: "TechFest 2025 - Join me!",
       text: "I'm attending TechFest 2025! Join me for 24 hours of innovation and coding. 🚀",
-      url: "https://techfest2025.com",
+      url: "https://event-registration-page-kappa.vercel.app/",
     }
 
     try {
