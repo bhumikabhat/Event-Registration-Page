@@ -221,6 +221,3 @@ For support, email hello@techfest2025.com or join our Discord community.
 
 ---
 
-**Built with ❤️ for the developer community**
-
-*Ready to win your next hackathon? This project showcases cutting-edge web development techniques that judges love to see!*
